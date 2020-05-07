@@ -1,0 +1,182 @@
+{
+  "leftData": [
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    },
+    {
+      "icon": "icon-shezhi",
+      "text": "审核专家",
+      "childData": [
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "环境竣工验收"
+        },
+        {
+          "childIcon": "icon-xiangmushenhe",
+          "childText": "公示公告"
+        }
+      ]
+    }
+  ],
+  "navData": [
+    {
+      "icon": "icon-cha",
+      "text": "用户管理"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "组织机构管理"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "异常日志"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "操作日志"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "基础权限管理"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "权限角色分配"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "列表管理"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "树形管理"
+    },
+    {
+      "icon": "icon-cha",
+      "text": "环境竣工验收"
+    }
+  ]
+}
